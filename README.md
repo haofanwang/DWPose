@@ -1,7 +1,7 @@
 # DWPose
 This repository refactors the inference from the official implementation of [DWPose](https://github.com/IDEA-Research/DWPose/tree/main).
 
-<center><img src="https://github.com/haofanwang/DWPose/raw/main/assets/asset.png" width="80%" height="80%"></center> 
+<center><img src="https://github.com/haofanwang/DWPose/raw/main/assets/asset-example.png" width="80%" height="80%"></center> 
 
 
 ## Installation
