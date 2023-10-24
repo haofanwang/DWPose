@@ -56,6 +56,9 @@ input_image = cv2.imread(image_dir)
 input_image = HWC3(input_image)
 input_image = resize_image(input_image, resolution=512)
 
+#height and weight of original image
+H, W = input_image.shape[:2]
+
 detected_map = dwprocessor(input_image)
 detected_map = HWC3(detected_map)
 
